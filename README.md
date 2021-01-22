@@ -3,7 +3,7 @@
 
  🚀 Student at Trybe
  
- ![Programando]https://github.com/Kaecio/Kaecio/blob/main/working.gif()
+ ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
 
 <!--
 **Kaecio/Kaecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
