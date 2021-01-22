@@ -2,8 +2,8 @@
 ### <p>Welcome</P>
 
  ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
- <p></p>
-<p> 🚀 Student at Trybe and Developer Junior at ![MagmaPro](https://github.com/Kaecio/Kaecio/blob/main/icone.ico) MagmaPro. </p>
+<br>
+🚀 Student at Trybe and Developer Junior at ![MagmaPro](https://github.com/Kaecio/Kaecio/blob/main/icone.jpg) MagmaPro.
 
 🌎 Brazil - São Paulo
 <p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React </p>
