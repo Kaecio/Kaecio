@@ -1,10 +1,11 @@
 ## Hi, I'm Fanderson Kaécio.
 <p>Welcome</P>
 
- 🚀 Student at Trybe
- 
+ 🚀 Student at Trybe and Developer Junior at ![MagmaPro](https://github.com/Kaecio/Kaecio/blob/main/icone.ico) MagmaPro.
  ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
 
+🌎 Brazil - São Paulo]
+💻 HTML | CSS | Javascript | MongoDb | MySQL | React 
 <!--
 **Kaecio/Kaecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
