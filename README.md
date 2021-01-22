@@ -3,7 +3,7 @@
 
  ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
 <br>
-🚀 Student at Trybe and Developer Junior at ![MagmaPro](https://github.com/Kaecio/Kaecio/blob/main/icone.jpg) MagmaPro.
+🚀 Student at Trybe and Developer Junior at MagmaPro.
 
 🌎 Brazil - São Paulo
 <p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React </p>
