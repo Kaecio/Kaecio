@@ -1,8 +1,8 @@
 ## Hi, I'm Fanderson Kaécio.
-<p>Welcome</P>
+### <p>Welcome</P>
 
  🚀 Student at Trybe and Developer Junior at ![MagmaPro](https://github.com/Kaecio/Kaecio/blob/main/icone.ico) MagmaPro.
- ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
+ <p>![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)</p>
 
 🌎 Brazil - São Paulo]
 💻 HTML | CSS | Javascript | MongoDb | MySQL | React 
