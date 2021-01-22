@@ -9,6 +9,7 @@
 <p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React </p>
 
 ![linkedin](https://github.com/Kaecio/Kaecio/blob/main/linkedin.png)
+
 <!--
 **Kaecio/Kaecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
