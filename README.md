@@ -1,6 +1,6 @@
-<h1>Hi, I'm Fanderson Kaécio.</h1>
-Welcome
-- 
+<h2>Hi, I'm Fanderson Kaécio.</h2>
+<p>Welcome</P>
+
  🚀 Student at Trybe
  
 
