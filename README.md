@@ -3,10 +3,10 @@
 
  ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
  <p></p>
-🚀 Student at Trybe and Developer Junior at ![MagmaPro](https://github.com/Kaecio/Kaecio/blob/main/icone.ico) MagmaPro.
+<p> 🚀 Student at Trybe and Developer Junior at ![MagmaPro](https://github.com/Kaecio/Kaecio/blob/main/icone.ico) MagmaPro. </p>
 
-🌎 Brazil - São Paulo]
-💻 HTML | CSS | Javascript | MongoDb | MySQL | React 
+🌎 Brazil - São Paulo
+<p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React </p>
 <!--
 **Kaecio/Kaecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
