@@ -8,7 +8,7 @@
 🌎 Brazil - São Paulo
 <p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React </p>
 
-<a>https://kaecio.github.io/Portfolio/</a>
+<a target="_blank">https://kaecio.github.io/Portfolio/</a>
 
 <!--
 **Kaecio/Kaecio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
