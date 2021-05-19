@@ -6,7 +6,7 @@
 🚀 Student at Trybe and Developer Junior at MagmaPro.
 
 🌎 Brazil - São Paulo
-<p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React | Node.JS</p>
+<p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React | Node.js</p>
 
 <a target="_blank">https://kaecio.github.io/Portfolio/</a>
 
