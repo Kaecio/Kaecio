@@ -1,5 +1,6 @@
-## Hi, I'm Fanderson Kaécio.
+## Hi👋, I'm Fanderson Kaécio
 ### <p>Welcome</P>
+</p>I am Quality Assure at Concrete part Accenture. I'm a technology consultant and I'm working for the biggest bank in Brazil. I'm learning to work with AWS and other tools like Grafana, Kibana and I'm loving it.</p>
 
  ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
 <br>
