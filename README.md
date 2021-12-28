@@ -7,7 +7,9 @@
 🚀 Quality Assurance at Concrete part Accenture
 
 🌎 Brazil - São Paulo
+##<p>Full Stack Knowledge Tools</p>
 <p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React | Node.js</p>
+##<p>Quality Assurance knowledge tools</p>
 <p> 💻 Gherkin | Cucumber | Capybara | Appium | Selenium | Ruby</p>
 
 <a target="_blank">https://kaecio.github.io/Portfolio/</a>
