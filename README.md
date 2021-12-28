@@ -3,10 +3,12 @@
 
  ![Programando](https://github.com/Kaecio/Kaecio/blob/main/working.gif)
 <br>
-🚀 Student at Trybe and Developer Junior at MagmaPro.
+🚀 Developer Junior Full Stack.
+🚀 Quality Assurance at Concrete part Accenture
 
 🌎 Brazil - São Paulo
 <p> 💻 HTML | CSS | Javascript | MongoDb | MySQL | React | Node.js</p>
+<p> 💻 Gherkin | Cucumber | Capybara | Appium | Selenium | Ruby</p>
 
 <a target="_blank">https://kaecio.github.io/Portfolio/</a>
 
